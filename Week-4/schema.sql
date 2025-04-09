@@ -58,3 +58,4 @@ INSERT INTO SALES (Date, Order_id, Item_id, Customer_id, Quantity, Revenue) VALU
 ('2022-07-30', 13, 3, 3, 4, 400.00),
 ('2022-08-05', 14, 4, 1, 6, 120.00),
 ('2022-09-10', 15, 5, 2, 3, 150.00);
+
